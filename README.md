@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krazywalaby
+- 👋 Hi, I’m @senkuthegreat
 - 👀 I’m interested in building and learning new stuff
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: rohitdahiya245@gmail.com
