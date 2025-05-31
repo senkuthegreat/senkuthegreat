@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac)
+
 - 👋 Hi, I’m @senkuthegreat
 - 👀 I’m interested in building and learning new stuff
 - 🌱 I’m currently learning C#
