@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @senkuthegreat
 - 👀 I’m interested in building and learning new stuff
-- 🌱 I’m currently learning C#
+- 🌱 I Have To Follow The Path of Perfection
 - 📫 How to reach me: 
       Email: rohitdahiya245@gmail.com
       Discord: @senkuthegreat
