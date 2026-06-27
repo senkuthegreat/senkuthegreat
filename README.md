@@ -58,24 +58,36 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senkuthegreat/senkuthegreat/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senkuthegreat/senkuthegreat/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/senkuthegreat/senkuthegreat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
+</div>
+
+---
+
 ## 📊 Analytics & Coding Insights
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SenkuTheGreat&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Github Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=senkuthegreat&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Github Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=SenkuTheGreat&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=senkuthegreat&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenkuTheGreat&theme=vue-dark&hide_border=true&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senkuthegreat&theme=vue-dark&hide_border=true&layout=compact" alt="Top Langs" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SenkuTheGreat&theme=vue-dark&hide_border=true" alt="Wakatime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=senkuthegreat&repo=friday&theme=vue-dark&hide_border=true" alt="Featured Repository" />
       </td>
     </tr>
   </table>
@@ -83,16 +95,16 @@
 
 ### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenkuTheGreat&theme=vue-dark&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senkuthegreat&theme=vue-dark&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ### 🏆 Achievements & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SenkuTheGreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=senkuthegreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=SenkuTheGreat&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=senkuthegreat&color=blue&style=flat-square" alt="Visitor Count" />
 </div>
