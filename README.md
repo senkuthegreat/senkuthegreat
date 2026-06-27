@@ -1,15 +1,12 @@
-![banner](https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac)
+# ⚙️ Rohit Dahiya (SenkuTheGreat) | Software Engineer & Systems Architect
 
-- 👋 Hi, I’m @senkuthegreat
-- 👀 I’m interested in building and learning new stuff
-- 🌱 I Have To Follow The Path of Perfection
-- 📬 How to reach me: Email: rohitdahiya245@gmail.com Discord: @senkuthegreat
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Day starts when you start 😄😃😊🫨
-- Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac" alt="Banner" width="100%" />
+</div>
 
-## 🌐 Socials:
-<div align="left">
+<br/>
+
+<div align="center">
   <a href="https://youtube.com/@SenkuTheGreat"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/30893343"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
   <a href="https://www.linkedin.com/in/rohit-dahiya-14b180240/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,11 +17,25 @@
 
 ---
 
+### 👋 Hello, I'm @senkuthegreat!
+A developer pursuing **perfection** in building operating systems modifications, intelligent agentic AI systems, and premium web architectures.
+
+- ⚙️ **Focus**: System-level development, reinforcement learning, and advanced agentic structures.
+- 🚀 **Current Endeavor**: Architecting **Ultron OS** and **FRIDAY** voice automation.
+- 💬 **Ask me about**: C++, C#, Unity, Next.js, Node.js, Notion API automation, and Multimodal Gemini setups.
+- ⚡ **Fun fact**: *Day starts when you start. 😄😃*
+
+- 🛠️ Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
+
+---
+
 ## 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <h3>💻 Languages</h3>
+  <h3>💻 Languages & Engines</h3>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
