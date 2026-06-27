@@ -53,17 +53,13 @@ A developer pursuing **perfection** in building operating systems modifications,
 
 ## 🚀 Key Projects
 
-### 🤖 [FRIDAY](https://github.com/senkuthegreat/friday) (Active)
+### 🤖 FRIDAY
 An intelligent, multimodal desktop & voice automation agent built using the **Gemini Multimodal Live API**, **LiveKit**, custom RVC voice cloning, and SQLite local memory extractors.
 
-### 🧠 [Ultron OS](https://github.com/senkuthegreat/ultron-os) (Roadmap)
-A curriculum and software catalog for studying system-level architecture, Windows Hook APIs (via **Windhawk**), and reinforcement learning models (DQN/DRL) to build a self-improving, autonomous agent OS environment.
-- *Key milestones: C++ Memory/File I/O basics, OS Scheduling, and Deep Q-Networks.*
-
-### 📚 [Senku Library](https://github.com/senkuthegreat/senku-library)
+### 📚 [Senku Library](https://www.senkulibrary.app/)
 A glassmorphic student dashboard suite utilizing React, Vite, and Firebase. Features a custom scraping engine to parse university schedules, combined with cloud/offline synchronized storage.
 
-### 🎵 [Spotify Embed Player](https://github.com/senkuthegreat/spotify-embed)
+### 🎵 [Spotify Embed Player](https://spotify-notion-player.pages.dev/)
 A custom, integrated music dashboard connecting the Spotify Web SDK with Notion workspaces to automate music playlists and embeds.
 
 ---
