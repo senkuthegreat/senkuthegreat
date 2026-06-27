@@ -1,17 +1,12 @@
-![banner](https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac)
+# ⚙️ SENKUTHEGREAT | Software Engineer & Systems Architect
 
-- 👋 Hi, I’m @senkuthegreat
-- 👀 I’m interested in building and learning new stuff
-- 🌱 I Have To Follow The Path of Perfection
-- 📫 How to reach me: 
-      Email: rohitdahiya245@gmail.com
-      Discord: @senkuthegreat
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Day starts when you start 😄😃😊🫨
-- Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac" alt="Banner" width="100%" />
+</div>
 
-## 🌐 Socials:
-<div align="left">
+<br/>
+
+<div align="center">
   <a href="https://youtube.com/@SenkuTheGreat"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/30893343"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
   <a href="https://www.linkedin.com/in/rohit-dahiya-14b180240/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -19,6 +14,16 @@
   <a href="mailto:rohitdahiya245@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://senkuthegreat.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globus&logoColor=white" alt="Portfolio" /></a>
 </div>
+
+---
+
+### 👋 Hello, I'm @senkuthegreat!
+A developer pursuing **perfection** in building operating systems modifications, intelligent agentic AI systems, and premium web architectures.
+
+- ⚙️ **Focus**: System-level development, reinforcement learning, and advanced agentic structures.
+- 🚀 **Current Endeavor**: Architecting **Ultron OS** and **FRIDAY** voice automation.
+- 💬 **Ask me about**: C++, Next.js, Node.js, Notion API automation, and Multimodal Gemini setups.
+- ⚡ **Fun fact**: *Day starts when you start. 😄😃*
 
 ---
 
@@ -55,6 +60,19 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
+
+---
+
+## 🚀 Key Projects
+
+### 🤖 FRIDAY
+An intelligent, multimodal desktop & voice automation agent built using the **Gemini Multimodal Live API**, **LiveKit**, custom RVC voice cloning, and SQLite local memory extractors.
+
+### 📚 [Senku Library](https://www.senkulibrary.app/)
+A glassmorphic student dashboard suite utilizing React, Vite, and Firebase. Features a custom scraping engine to parse university schedules, combined with cloud/offline synchronized storage.
+
+### 🎵 [Spotify Embed Player](https://spotify-notion-player.pages.dev/)
+A custom, integrated music dashboard connecting the Spotify Web SDK with Notion workspaces to automate music playlists and embeds.
 
 ---
 
