@@ -3,9 +3,7 @@
 - 👋 Hi, I’m @senkuthegreat
 - 👀 I’m interested in building and learning new stuff
 - 🌱 I Have To Follow The Path of Perfection
-- 📫 How to reach me: 
-      Email: rohitdahiya245@gmail.com
-      Discord: @senkuthegreat
+- 📬 How to reach me: Email: rohitdahiya245@gmail.com Discord: @senkuthegreat
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Day starts when you start 😄😃😊🫨
 - Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
