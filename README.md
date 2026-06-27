@@ -11,7 +11,14 @@
 - Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
 
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/30893343) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@SenkuTheGreat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rohit-dahiya-14b180240/)
+<div align="left">
+  <a href="https://youtube.com/@SenkuTheGreat"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://stackoverflow.com/users/30893343"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+  <a href="https://www.linkedin.com/in/rohit-dahiya-14b180240/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/1113849467695792140"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:rohitdahiya245@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://senkuthegreat.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globus&logoColor=white" alt="Portfolio" /></a>
+</div>
 
 ---
 
