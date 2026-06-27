@@ -100,7 +100,7 @@ A custom, integrated music dashboard connecting the Spotify Web SDK with Notion 
 
 ### 🏆 Achievements & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=senkuthegreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=senkuthegreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
 
 <br/>
