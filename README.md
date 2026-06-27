@@ -1,66 +1,53 @@
-# ⚙️ SENKUTHEGREAT | Software Engineer & Systems Architect
+![banner](https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac" alt="Banner" width="100%" />
-</div>
+- 👋 Hi, I’m @senkuthegreat
+- 👀 I’m interested in building and learning new stuff
+- 🌱 I Have To Follow The Path of Perfection
+- 📫 How to reach me: 
+      Email: rohitdahiya245@gmail.com
+      Discord: @senkuthegreat
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Day starts when you start 😄😃😊🫨
+- Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
 
-<br/>
-
-<div align="center">
-  <a href="https://youtube.com/@SenkuTheGreat"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube" /></a>
-  <a href="https://stackoverflow.com/users/30893343"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="StackOverflow" /></a>
-  <a href="https://www.linkedin.com/in/rohit-dahiya-14b180240/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-</div>
-
----
-
-### 👋 Hello, I'm @senkuthegreat!
-A developer pursuing **perfection** in building operating systems modifications, intelligent agentic AI systems, and premium web architectures.
-
-- ⚙️ **Focus**: System-level development, reinforcement learning, and advanced agentic structures.
-- 🚀 **Current Endeavor**: Architecting **Ultron OS** and **FRIDAY** voice automation.
-- 💬 **Ask me about**: C++, Next.js, Node.js, Notion API automation, and Multimodal Gemini setups.
-- ⚡ **Fun fact**: *Day starts when you start. 😄😃*
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/30893343) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@SenkuTheGreat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rohit-dahiya-14b180240/)
 
 ---
 
 ## 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <h3>💻 Languages</h3>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br/><br/>
   
-  <!-- Frameworks & Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <h3>🚀 Frameworks & Libraries</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <br/><br/>
   
-  <!-- Backend & Database -->
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
+  <h3>🗄️ Databases & Platforms</h3>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316194?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <br/><br/>
   
-  <!-- Developer Tools -->
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <h3>🛠️ Tools & APIs</h3>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </div>
-
----
-
-## 🚀 Key Projects
-
-### 🤖 FRIDAY
-An intelligent, multimodal desktop & voice automation agent built using the **Gemini Multimodal Live API**, **LiveKit**, custom RVC voice cloning, and SQLite local memory extractors.
-
-### 📚 [Senku Library](https://www.senkulibrary.app/)
-A glassmorphic student dashboard suite utilizing React, Vite, and Firebase. Features a custom scraping engine to parse university schedules, combined with cloud/offline synchronized storage.
-
-### 🎵 [Spotify Embed Player](https://spotify-notion-player.pages.dev/)
-A custom, integrated music dashboard connecting the Spotify Web SDK with Notion workspaces to automate music playlists and embeds.
 
 ---
 
@@ -78,16 +65,21 @@ A custom, integrated music dashboard connecting the Spotify Web SDK with Notion 
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SenkuTheGreat&theme=vue-dark&hide_border=true" alt="Wakatime Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenkuTheGreat&theme=vue-dark&hide_border=true&layout=compact" alt="Top Langs" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=SenkuTheGreat&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SenkuTheGreat&theme=vue-dark&hide_border=true" alt="Wakatime Stats" />
       </td>
     </tr>
   </table>
 </div>
 
-### 🏆 GitHub Achievements
+### 📈 Contribution Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenkuTheGreat&theme=vue-dark&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+### 🏆 Achievements & Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SenkuTheGreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
