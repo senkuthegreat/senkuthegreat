@@ -25,7 +25,7 @@ A developer pursuing **perfection** in building operating systems modifications,
 - 💬 **Ask me about**: C++, C#, Unity, Next.js, Node.js, Notion API automation, and Multimodal Gemini setups.
 - ⚡ **Fun fact**: *Day starts when you start. 😄😃*
 
-- 🛠️ Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
+- 🛠️ Built [**PreMiD Discord Presence Activities**](https://premid.app/store/presences) for [**AnimeDekho**](https://animedekho.co/), [**Senku Library**](https://www.senkulibrary.app/), and **Netmirror**.
 
 ---
 
@@ -109,7 +109,7 @@ A custom, integrated music dashboard connecting the Spotify Web SDK with Notion 
 
 ### 🏆 Achievements & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=senkuthegreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=senkuthegreat&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" />
 </div>
 
 <br/>
