@@ -1,12 +1,17 @@
-# ⚙️ SENKUTHEGREAT | Software Engineer & Systems Architect
+![banner](https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1dc328c2-d14d-4672-a6a4-987406c630ac" alt="Banner" width="100%" />
-</div>
+- 👋 Hi, I’m @senkuthegreat
+- 👀 I’m interested in building and learning new stuff
+- 🌱 I Have To Follow The Path of Perfection
+- 📫 How to reach me: 
+      Email: rohitdahiya245@gmail.com
+      Discord: @senkuthegreat
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Day starts when you start 😄😃😊🫨
+- Built [**PreMiD Discord Presence Activity**](https://premid.app/store/presences/AnimeDekho) for the Website [**AnimeDekho**](https://animedekho.co/)
 
-<br/>
-
-<div align="center">
+## 🌐 Socials:
+<div align="left">
   <a href="https://youtube.com/@SenkuTheGreat"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://stackoverflow.com/users/30893343"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
   <a href="https://www.linkedin.com/in/rohit-dahiya-14b180240/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,16 +19,6 @@
   <a href="mailto:rohitdahiya245@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://senkuthegreat.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globus&logoColor=white" alt="Portfolio" /></a>
 </div>
-
----
-
-### 👋 Hello, I'm @senkuthegreat!
-A developer pursuing **perfection** in building operating systems modifications, intelligent agentic AI systems, and premium web architectures.
-
-- ⚙️ **Focus**: System-level development, reinforcement learning, and advanced agentic structures.
-- 🚀 **Current Endeavor**: Architecting **Ultron OS** and **FRIDAY** voice automation.
-- 💬 **Ask me about**: C++, Next.js, Node.js, Notion API automation, and Multimodal Gemini setups.
-- ⚡ **Fun fact**: *Day starts when you start. 😄😃*
 
 ---
 
@@ -100,20 +95,7 @@ A custom, integrated music dashboard connecting the Spotify Web SDK with Notion 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=senkuthegreat&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senkuthegreat&theme=vue-dark&hide_border=true&layout=compact" alt="Top Langs" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=senkuthegreat&repo=friday&theme=vue-dark&hide_border=true" alt="Featured Repository" />
-      </td>
-    </tr>
   </table>
-</div>
-
-### 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senkuthegreat&theme=vue-dark&bg_color=00000000&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ### 🏆 Achievements & Trophies
